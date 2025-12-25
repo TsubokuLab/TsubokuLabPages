@@ -20,7 +20,9 @@ pixivFANBOXにて、開発中のアプリやVRChat用アセット等を支援者
 
 ## [スライドショーシステム / SlideshowSystem](https://tsubokulab.booth.pm/items/3755033)
 
-<div class="iframe-responsive"><iframe width="832" height="468" src="https://www.youtube.com/embed/zqtGkY6F0TQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-responsive">
+<iframe width="832" height="468" src="https://www.youtube-nocookie.com/embed/zqtGkY6F0TQ?si=8p6cbBHO2mvCxrfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## [ワールドメガホン / WorldMegaphone](https://tsubokulab.booth.pm/items/3755026)
 
@@ -81,7 +83,7 @@ pixivFANBOX支援者の方は無料でダウンロード頂けます→[https://
 ## [Virtual Motion Sender](https://tsubokulab.github.io/virtualmotionsender/)
 
 
- 
+
 [![VirtualMotionSender_thumbnail](virtualmotionsender/images/VirtualMotionSender_thumbnail.png)](http://github.teruaki-tsubokura.com/virtualmotionsender/)
 
 SteamVRのトラッカー・コントローラーの位置や入力を別PCに複製転送するアプリ  
